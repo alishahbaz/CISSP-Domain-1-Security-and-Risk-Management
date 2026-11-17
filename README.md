@@ -10,8 +10,8 @@ This wiki provides a comprehensive, easy-to-understand study guide for **CISSP D
 
 | Part | Topic | Pages |
 |------|-------|-------|
-| **Part 1** | [Information Security Principles](Home#part-1-information-security-principles) | Concepts, Governance, Frameworks, Ethics |
-| **Part 2** | [Principles of Risk](Home#part-2-principles-of-risk) | Risk Management, Threat Modeling, Controls, Monitoring |
+| **Part 1** | [Information Security Principles](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Home#part-1-information-security-principles) | Concepts, Governance, Frameworks, Ethics |
+| **Part 2** | [Principles of Risk](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Home#part-2-principles-of-risk) | Risk Management, Threat Modeling, Controls, Monitoring |
 
 ---
 
@@ -19,20 +19,20 @@ This wiki provides a comprehensive, easy-to-understand study guide for **CISSP D
 
 ### Part 1 — Information Security Principles
 
-- [Information Security Concepts](Information-Security-Concepts) — The Five Pillars (CIA + Authenticity + Non-Repudiation)
-- [Security Governance](Security-Governance) — Business Alignment, Oversight Committees, Strategy
-- [Organizational Roles and Responsibilities](Organizational-Roles-and-Responsibilities) — Ownership, RACI Model, Key Roles
-- [Security Control Frameworks](Security-Control-Frameworks) — ISO 27001, NIST, COBIT, PCI-DSS, Gap Analysis
-- [Due Care and Due Diligence](Due-Care-and-Due-Diligence) — Legal Obligations, Negligence
-- [Ethics](Ethics) — Organizational Ethics, ISC2 Code of Ethics
+- [Information Security Concepts](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Information-Security-Concepts) — The Five Pillars (CIA + Authenticity + Non-Repudiation)
+- [Security Governance](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Security-Governance) — Business Alignment, Oversight Committees, Strategy
+- [Organizational Roles and Responsibilities](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Organizational-Roles-and-Responsibilities) — Ownership, RACI Model, Key Roles
+- [Security Control Frameworks](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Security-Control-Frameworks) — ISO 27001, NIST, COBIT, PCI-DSS, Gap Analysis
+- [Due Care and Due Diligence](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Due-Care-and-Due-Diligence) — Legal Obligations, Negligence
+- [Ethics](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Ethics) — Organizational Ethics, ISC2 Code of Ethics
 
 ### Part 2 — Principles of Risk
 
-- [Risk Management Overview](Risk-Management-Overview) — Principles, Frameworks, Context, Scope
-- [Threat Modeling and Risk Assessment](Threat-Modeling-and-Risk-Assessment) — Threat Actors, Attack Surface, Risk Analysis
-- [Risk Response and Controls](Risk-Response-and-Controls) — Mitigation, Avoidance, Transfer, Acceptance, Control Types
-- [Risk Monitoring and Reporting](Risk-Monitoring-and-Reporting) — Verification, Validation, Risk Register, Maturity
-- [Supply Chain Risk Management](Supply-Chain-Risk-Management) — Third-Party Risk, Vendor Assessment
+- [Risk Management Overview](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Risk-Management-Overview) — Principles, Frameworks, Context, Scope
+- [Threat Modeling and Risk Assessment](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Threat-Modeling-and-Risk-Assessment) — Threat Actors, Attack Surface, Risk Analysis
+- [Risk Response and Controls](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Risk-Response-and-Controls) — Mitigation, Avoidance, Transfer, Acceptance, Control Types
+- [Risk Monitoring and Reporting](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Risk-Monitoring-and-Reporting) — Verification, Validation, Risk Register, Maturity
+- [Supply Chain Risk Management](https://github.com/alishahbaz/CISSP-Domain-1-Security-and-Risk-Management/wiki/Supply-Chain-Risk-Management) — Third-Party Risk, Vendor Assessment
 
 ---
 
